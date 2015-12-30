@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">IP Counter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sks">Number of SKS</string>
+    <string name="score">Score</string>
+    <string
+        name="App_label">Final Scores App 2015</string>
+    <string
+        name="Welcome">Welcome to Final Score Apps 4th Semester BIG 2013 Politeknik Negeri Jember
+    </string>
+    <string
+        name="A_Class">A Class
+    </string>
+    <string
+        name="B_Class">B Class
+    </string>
+    <string
+        name="C_Class">C Class
+    </string>
+    <string
+        name="Dev_intial">AndriawanNET Developer © 2015
+    </string>
+    <string
+        name="lecturers">Profile of Lecturers
+    </string>
+    <string
+        name="tekpen">Teknik Penulisan Ilmiah
+    </string>
+    <string
+        name="speaking">Speaking 4
+    </string>
+    <string
+        name="bpw">Biro Perjalanan Wisata
+    </string>
+    <string
+        name="efs">English for Secretary
+    </string>
+    <string
+        name="writing">Writing 3
+    </string>
+    <string
+        name="tnt">English for Tour and Travel
+    </string>
+    <string
+        name="reading">Reading 4
+    </string>
+    <string
+        name="structure">Structure 4
+    </string>
+    <string
+        name="listening">Listening 4
+    </string>
+    <string
+        name="kesekretarisan">Kesekretarisan
+    </string>
+    <string
+        name="translation">Translation 2
+    </string>
+    <string
+        name="efb">English for Banking
+    </string>
+    <string
+        name="Public_sp">Public Speaking
+    </string>
+    <string
+        name="Public_rel">Public Relation
+    </string>
+    <string
+        name="efc">English for Corespondence
+    </string>
+    <string
+        name="writ4">Writing 4
+    </string>
+    <string
+        name="name">Name
+    </string>
+    <string
+        name="id">ID
+    </string>
+    <string
+        name="classid">Class
+    </string>
+    <string
+        name="and">anddd
+    </string>
+</resources>
